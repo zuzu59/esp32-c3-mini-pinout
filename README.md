@@ -1,7 +1,7 @@
-# esp32-c3--pinout
+# esp32-c3-pinout
 Archive de la page https://www.studiopieters.nl/esp32-c3-pinout/
 
-zf250625.0852, 250625.0906
+zf250625.0852, 250625.0909
 
 Juste une archive de la page https://www.studiopieters.nl/esp32-c3-pinout/ qui est vraiment très intéressante au niveau documentations pour le esp32-c3 !
 
